@@ -2,4 +2,4 @@
 We developed a webinterface for our PoloCloud
 
 ### Template
-Based of the [Argron](https://github.com/creativetimofficial/argon-dashboard) Dashboard template
+Based on the [Argon](https://github.com/creativetimofficial/argon-dashboard) Dashboard template by CreativeTim
